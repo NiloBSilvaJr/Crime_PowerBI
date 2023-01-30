@@ -27,5 +27,5 @@ Criar um dashboard para responder às perguntas, utilizando a melhor visualizaç
 
 
 ## Dashboard
-![Dash](https://github.com/NiloBSilvaJr/Covid_PowerBI/blob/main/Dash_Covid19.jpeg)
+![Dash](https://github.com/NiloBSilvaJr/Crime_PowerBI/blob/main/Tela_Dash.png)
 
