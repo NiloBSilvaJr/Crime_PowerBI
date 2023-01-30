@@ -7,9 +7,11 @@ Módulo: **DS-NA-001 VISUALIZAÇÃO DE DADOS COM POWER BI**
 Facilitador: **Tiago Dias**
 
 
-##
-Atividade proposta em sala de aula
+## Colaboração
+Projeto realizado em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
 
+
+## Requisitos:
 Dashboard US Crime Data
 
 Usar a base US Crime Data disponível no Kaggle para resolver os problemas de negócio.
@@ -23,7 +25,6 @@ Criar um dashboard para responder às perguntas, utilizando a melhor visualizaç
 3. Quais os 10 estados mais violentos?
 4. Qual a quantidade de crimes ao longo do tempo?
 5. Utilizar os principais campos como filtro.
-
 
 
 ## Dashboard
