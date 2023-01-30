@@ -7,7 +7,7 @@ Módulo: **DS-NA-001 VISUALIZAÇÃO DE DADOS COM POWER BI**
 Facilitador: **Tiago Dias**
 
 
-
+##
 Atividade proposta em sala de aula
 
 Dashboard US Crime Data
