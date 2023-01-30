@@ -8,7 +8,7 @@ Facilitador: **Tiago Dias**
 
 
 ## Colaboração
-Projeto realizado em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
+Atividade realizada em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
 
 
 ## Requisitos:
